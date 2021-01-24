@@ -7,3 +7,5 @@ O conteúdo do curso cobre desde os conceitos teóricos iniciais para o entendim
 
 04:05
 
+04:25
+
