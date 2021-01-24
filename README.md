@@ -5,3 +5,5 @@ Projeto fictício e não funcional criado para demonstrar os funcionamentos do c
 ### Conteúdo do curso
 O conteúdo do curso cobre desde os conceitos teóricos iniciais para o entendimento de como a ferramenta funciona e a partir dos conhecimentos teóricos, exercícios e exemplos práticos são feitos para fixar o conhecimento.
 
+04:05
+
